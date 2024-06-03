@@ -1,0 +1,10 @@
+.card-img, .card-img-bottom, .card-img-top {
+    width: 250px;
+    height: 250px;
+}
+
+body {
+    display: block;
+    unicode-bidi: isolate;
+    background-color: rgb(181, 181, 181);
+}
